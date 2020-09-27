@@ -1,0 +1,1479 @@
+slick-dots li button {
+    font-size: 0;
+    line-height: 0;
+    display: block;
+    width: 20px;
+    height: 20px;
+    padding: 5px;
+    cursor: pointer;
+    color: #ca4b5d;
+    border: 0;
+    outline: none;
+    background: #cf4b5e;
+}
+
+               /*start style model*/
+#fac{
+
+    border-radius: 25px;
+    font-size: 30px;
+    color: #3B5998;
+    padding: 5px;
+    font-size: 25px;
+    margin-right: 10px;
+}
+h5 #gmail{
+margin-right: 10px;
+  font-size: 30px;
+  padding: 5px;
+}
+
+#twiter{
+  border: 1px solid;
+  border-radius: 25px;
+  background-color: #03A9F4 ;
+  color: white;
+opacity: 1;
+  font-size: 20px;
+padding: 5px;
+}
+
+
+
+form .form-check {
+  text-align: left;
+  font: Raleway;
+  letter-spacing: 0px;
+  color: #878786;
+  opacity: 1;
+}
+
+.form-check span{
+
+  margin-left: 120px;
+  text-align: right;
+  font: Raleway;
+  letter-spacing: 0px;
+  color: #878786;
+  opacity: 1;
+
+}
+
+
+h1 img{
+margin: 13px 0 25px 155px;
+
+}
+form h5{
+  text-align: center;
+  margin: 21px 0 21px 0;
+  color: #000000;
+  font: normal normal normal 14px/16px Raleway;
+
+}
+form h5 button{
+
+padding: 5px 13px 5px 13px;
+font:Raleway;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+background: #E30F38 0% 0% no-repeat padding-box;
+border: none;
+
+font: normal normal bold 14px/16px Raleway;
+}
+.footer{
+  text-align: center;
+
+}
+.footer h5{
+  color: #000000;
+  font: normal normal normal 14px/16px Raleway;
+}
+.footer .rigist{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  border: 1px solid #E30F38;
+  opacity: 1;
+  color: red;
+  font: normal normal normal 14px/16px Raleway;
+letter-spacing: 0px;
+color: #E30F38;
+outline: none;
+padding: 5px 15px 5px 15px;
+}
+#show{
+  display: none;
+}
+#hide1{
+  display: none;
+}
+#hide1{
+  text-align: center;
+}
+#hide1 h2{
+  font: normal normal bold 26px/30px Raleway;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+margin: 15px 0 15px 0;
+}
+#hide1 p{
+font: normal normal normal 21px/25px Raleway;
+letter-spacing: 0px;
+color: #707070;
+margin: 15px 0 15px 0;
+}
+#hide1 h6{
+  font: normal normal bold 18px/22px Century Gothic;
+letter-spacing: 0px;
+color: #116592;
+margin: 15px 0 15px 0;
+}
+#hide1 h6 a{
+  text-decoration: none;
+}
+#hide1 h4{
+  margin: 15px 0 60px 0;
+  font: normal normal normal 15px/17px Raleway;
+letter-spacing: 0px;
+color: #116592;
+}
+#hide1 button.rigist{
+  padding: 10px 20px 10px 20px;
+  margin: 30px 0 10px 30px;
+  background-color: white;
+  color: red;
+  border:1px solid red;
+}
+#hide1 input{
+  width: 10%;
+    padding: 6px;
+    margin: 14px;
+    border: 1px solid red;
+}
+                 /*end style model*/
+                    /*start style header*/
+.header1{
+  margin: 10px 0px 0 0;
+  padding: 0 0 0 10px;
+}
+.header1 i{
+  padding: 0 0 0 10px;
+}
+.header2{
+  text-align: right;
+  margin: none;
+}
+.header2 ul li{
+  list-style: none;
+  display:inline-block;
+  font: normal normal normal 15px/21px Raleway;
+letter-spacing: -0.12px;
+color: #969696;
+opacity: 1;
+}
+.header2 ul li a{
+  text-decoration: none;
+  font: normal normal normal 15px/21px Raleway;
+letter-spacing: -0.12px;
+color: #969696;
+opacity: 1;
+}
+                    /*end style header*/
+
+
+                      /*start style navbar*/
+navbar .navbar1{
+      margin: -31px 0 0 22px;
+}
+navbar .navbar1 img{
+  padding: 0 0 0 29px;
+}
+navbar .navbar1 i{
+ color: #737272;
+ font-size: 25px;
+}
+navbar .navbar2 button{
+ background-color: #2d6592;
+ color: white;
+}
+navbar .navbar3 ul{
+  padding: 0;
+  margin: 0;
+}
+navbar .navbar3 ul li {
+
+  list-style: none;
+  display:inline-block;
+  padding: 0;
+    margin: -13px -13px 0 -5px;
+}
+navbar .navbar3 ul li a{
+  text-decoration: none;
+  display: inline-block;
+  font: normal normal normal 15px/22px Raleway;
+letter-spacing: -0.24px;
+color: #545454;
+opacity: 1;
+}
+navbar .navbar3 ul li a i{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+border: 1px solid #E4E4E4;
+opacity: 1;
+border-radius: 50px 50px 50px 50px;
+}
+navbar .navbar3 ul li a img{
+  width: 80%;
+}
+navbar #icon{
+color: red;
+opacity: 1;
+}
+
+                        /*end style navbar*/
+                        .nav2{
+                          background: #F6F6FA 0% 0% no-repeat padding-box;
+border-radius: 0px 0px 5px 5px;
+opacity: 1;
+margin: 0;
+padding: 0;
+                        }
+
+                        .nav2 ul li{
+                          text-align: left;
+                          list-style: none;
+                          display:inline-block;
+                          font: normal normal normal 15px/21px Raleway;
+                        letter-spacing: -0.12px;
+                        color: #969696;
+                        opacity: 1;
+                        }
+                        .nav2 ul li a{
+                          text-decoration: none;
+                          text-align: left;
+font: normal normal normal 19px/28px Raleway;
+letter-spacing: -0.13px;
+color: #1C1C1C;
+opacity: 1;
+margin: 0 42px 0 -36px;
+}
+
+
+
+                /*staty style content*/
+
+
+                @media only screen and (max-width: 1000px) {
+              .content .header-text h1{
+                    font-size: 30px;
+                  }
+                  .content .header-text h3{
+                        font-size: 30px;
+                      }
+
+                          .content .header-text h2{
+                                font-size: 30px;
+
+                              }
+
+
+                }
+                  @media only screen and (max-width: 779px) {
+                    .content .header__slider{
+                      margin-left: 220px;
+                    }
+
+                  }
+
+                .header-text h1{
+                    margin-left: 50px;
+                  color:#116592;
+                  font: normal normal 900 45px/61px Raleway;
+                letter-spacing: 0px;
+                }
+                .header-text h2{
+                margin-left: 90px;
+                font: normal normal normal 47px/97px Arial;
+                letter-spacing: 0px;
+                color: #737272;
+                }
+                .header-text h3{
+                font: normal normal 900 67px/97px Raleway;
+                letter-spacing: 0px;
+                color: #E30F38;
+                opacity: 1;
+                font-weight: bold;
+                }
+              .header__slider{
+              position: absolute;
+              /* background: #f00; */
+              left: -178px;
+              top: 25%;
+              /* padding: 30px;
+              max-width: 500px; */
+
+              }
+              .header__slider1{
+                background-color: #116592;
+                width: 100%;
+                height: 400px;
+              }
+
+              .slick-dots {
+              position: absolute;
+              display: block;
+              padding: 0;
+              margin: 0;
+              list-style: none;
+              text-align: center;
+              width: auto;
+              left: -20px;
+              bottom: 80px;
+              }
+              .slick-dots li {
+              position: relative;
+              display: block;
+              width: 3px;
+              height: 3px;
+              margin: 10px 5px;
+              padding: 0;
+              cursor: pointer;
+              }
+              .slick-dots li.slick-active button {
+              background:blue;
+              }
+              .slick-dots li button {
+              font-size: 0;
+              line-height: 0;
+              display: block;
+              width: 7px;
+              height: 7px;
+              padding: 0;
+              cursor: pointer;
+              color: transparent;
+              border: 0;
+              outline: none;
+              background: #c3c3c3;
+              border-radius: 50%
+              }
+              .slick-dots li button:hover, .slick-dots li button:focus {
+              outline: none;
+              }
+
+
+
+
+
+                  /*end style content*/
+
+
+
+
+                  @media only screen and (max-width: 100px) {
+                    .section .slider{
+                    
+                    }
+
+                  }
+
+
+
+                  .prev1 span{
+                      margin: 151px 3px 0 0px;
+                      color: red;
+
+                      float: left;
+                      position: relative;
+                      border: 1px solid red;
+                      width: 22px;
+                  }
+                  .prev2 p{
+                      color: red;
+
+                      float: right;
+                      position: relative;
+                      border: 1px solid red;
+                      width: 22px;
+                          margin: -192px -15px 0 0px;
+                  }
+
+                              /*start style top market*/
+
+.section{
+  margin-top: 65px;
+}
+
+.section h3{
+  text-align: center;
+  font: normal normal bold 36px/48px STIXVariants;
+letter-spacing: 0px;
+color: #575656;
+opacity: 1;
+}
+.brands h3{
+  text-align: center;
+  font: normal normal bold 36px/48px STIXVariants;
+letter-spacing: 0px;
+color: #575656;
+opacity: 1;
+margin-top: 29px;
+}
+.section,.brands p{
+  text-align: right;
+  font: normal normal normal 29px/35px Century Gothic;
+letter-spacing: 0px;
+color: #116592;
+opacity: 1;
+}
+.section .divs{
+  width: 100%;
+
+}
+.brands img {
+  width: 100%;
+  padding: 0 0px 0 0px;
+
+}
+.brands #img{
+  height: 400px;
+  padding-bottom: 10px;
+}
+.brands #img1{
+  height: 200px;
+  padding-bottom: 10px;
+}
+.section img{
+  width: 100%;
+  height: 350px;
+  padding: 0 12px 0 0px;
+
+}
+.section .over-image{
+  position: absolute;
+  bottom: 0;
+  background: transparent linear-gradient(105deg, #013B5A 0%, #E30F38D8 100%) 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 10px 10px;
+  opacity: 0.64;
+  filter: blur(undefined);
+  width: 7.444%;
+  padding: 20px 0 0 0;
+  margin: 0 0 0 0px;
+  text-align: center;
+}
+.brands .over-image{
+  position: absolute;
+  bottom: 0;
+  background: transparent linear-gradient(105deg, #013B5A 0%, #E30F38D8 100%) 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 10px 10px;
+  opacity: 0.64;
+  filter: blur(undefined);
+  width: 94%;
+      padding: 20px 0 0 0;
+      margin: 0 0 9px 0px;
+
+  text-align: center;
+}
+
+.over-image h4{
+font: normal normal normal 26px/32px Century Gothic;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+
+
+
+
+.Deals h3{
+  text-align: center;
+  font: normal normal bold 36px/48px STIXVariants;
+letter-spacing: 0px;
+color: #575656;
+opacity: 1;
+margin-top: 29px;
+}
+.Deals p{
+  text-align: right;
+  font: normal normal normal 29px/35px Century Gothic;
+letter-spacing: 0px;
+color: #116592;
+opacity: 1;
+}
+.Deals .divs{
+  width: 100%;
+
+}
+.Deals img {
+  width: 100%;
+  padding: 0 0px 0 0px;
+
+}
+
+.Deals img{
+  width: 100%;
+  height: 500px;
+  padding: 0 12px 0 0px;
+
+}
+.Deals .over-image{
+  position: absolute;
+  bottom: 0;
+  background: transparent linear-gradient(105deg, #013B5A 0%, #E30F38D8 100%) 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 10px 10px;
+  opacity: 0.64;
+  filter: blur(undefined);
+
+  padding: 20px 0 0 0;
+  margin: 0 0 0 0px;
+  text-align: center;
+}
+.Deals .over-image{
+  position: absolute;
+  bottom: 0;
+  background: transparent linear-gradient(105deg, #013B5A 0%, #E30F38D8 100%) 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 10px 10px;
+  opacity: 0.64;
+  filter: blur(undefined);
+  width: 89%;
+    padding: 0 0 0 0;
+    margin: 0 0 0px 0;
+
+
+
+}
+.Deals .over-image h3{
+  text-align: left;
+  font: normal normal normal 26px/32px Century Gothic;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  opacity: 1;
+}
+.Deals .over-image h4{
+font: normal normal normal 26px/32px Century Gothic;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.Deals .over-image span{
+
+  text-decoration:line-through;
+  margin: 0 0 0 216px;
+    color: #ffff;
+}
+.Deals .over-beg{
+  position: absolute;
+  background: #E30E37 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+  top:0;
+  padding: 0px 10px 0 26px;
+  margin: 84px 0 0 -25px;
+}
+.Deals .over-beg h3{
+  text-align: left;
+font: normal normal bold 11px/15px STIXVariants;
+letter-spacing: 0px;
+color: #FFFDFD;
+opacity: 1;
+margin: 3px 8px 3px -2px;
+font-size: 18px;
+}
+
+
+
+/*
+.section1 img #left{
+ width:auto;
+}
+.section1 img #right{
+   width: auto;
+}
+*/
+
+                          /*end style top market*/
+
+                            /*start style foter*/
+.foter{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px -3px 6px #00000029;
+border-radius: 6px;
+opacity: 1;
+margin-top: 30px;
+}
+                          .foter p{
+
+font: normal normal normal 15px/22px Raleway;
+letter-spacing: -0.2px;
+color: #545454;
+opacity: 1;
+ }
+
+.foter .align{
+
+  margin-top: 30px;
+}
+
+.foter .align h5{
+  font: normal normal normal 18px/26px Raleway;
+  letter-spacing: -0.12px;
+  color: #1C1C1C;
+  opacity: 1;
+}
+.foter i{
+  margin: 30px 0 30px 10px;
+  background: #969696 0% 0% no-repeat padding-box;
+opacity: 1;
+  border: 1px solid #969696;
+}
+                          .foter table {
+                            border-collapse: collapse;
+                            border-spacing: 0;
+                            width: 100%;
+
+                            margin: 30px 0 0 0;
+
+                          }
+                          .foter table th{
+
+font: normal normal normal 18px/26px Raleway;
+letter-spacing: -0.12px;
+color: #1C1C1C;
+opacity: 1;
+                          }
+                            .foter table td {
+
+                            padding: 8px;
+                            font: normal normal normal 18px/26px Raleway;
+    letter-spacing: -0.24px;
+    color: #545454;
+    opacity: 1;
+
+                          }
+                              /*end style foter*/
+
+
+                                  /*stat style baby*/
+
+  /*stat style flashbaby*/
+  .container {
+  position: relative;
+
+  margin: 0 auto;
+}
+.baby-contact{
+      margin: 120px 0 0 0;
+}
+.baby-contact p{
+  font: normal normal normal 15px/18px Century Gothic;
+letter-spacing: 0px;
+color: #707070;
+opacity: 1;
+}
+.baby-contact #img-right{
+  margin: 35px 4px 0 9px;
+    float: right;
+}
+.header-text2 img{
+  width: 450px;
+  margin: 164px 0 0 -126px;
+  position: absolute;
+}
+.flash{
+  background: #f3f5f7 0% 0% no-repeat padding-box;
+
+
+opacity: 1;
+margin: 20px 0 0 0;
+    padding: 30px 0 40px 0;
+
+}
+.flash img{
+  margin: 10px 0 0 20px;
+}
+.flash .content {
+  background: transparent linear-gradient(101deg, #11659269 0%, #E30F3857 100%) 0% 0% no-repeat padding-box;
+border-radius: 0px 0px 10px 10px;
+opacity: 1;
+filter: blur(undefined);
+  bottom: 0;
+  padding: 11px 25px 0 125px;
+    margin: -12px 8px 0px 26px;
+}
+.flash .content h4{
+  text-align: left;
+font: normal normal bold 11px/15px STIXVariants;
+letter-spacing: 0px;
+color: #FFFDFD;
+opacity: 1;
+}
+.flash .over-beg{
+  position: absolute;
+  background: #E30E37 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+  top:0;
+  padding: 6px 8px 0 15px;
+    margin: 84px 0px 0 10px;
+}
+.flash .over-beg h3{
+  text-align: left;
+font: normal normal bold 11px/15px STIXVariants;
+letter-spacing: 0px;
+color: #FFFDFD;
+opacity: 1;
+}
+.flash p{
+
+  font: normal normal 900 34px/40px Raleway;
+  letter-spacing: 0.44px;
+  color: #707070;
+  opacity: 1;
+
+}
+.flash p span{
+  text-align: right;
+  margin: 0 0 0 0;
+}
+.filter{
+  margin-top:50px;
+}
+.filter img{
+  width: 100%;
+}
+.filter .menu{
+  text-align: left;
+letter-spacing: 0px;
+color: #5B5B5B;
+opacity: 1;
+border: solid 1px #f1f1f1;
+padding: 10px;
+font-size: 15px;
+}
+.filter .menu h2{
+  background: #116592 0% 0% no-repeat padding-box;
+border-radius: 5px 5px 0px 0px;
+opacity: 1;
+color: #ffff;
+font-size: 20px;
+padding: 10px;
+}
+.filter .menu p span{
+  margin-right: 50px;
+}
+.filter .menu p{
+
+}
+.container {
+
+}
+.filter .content {
+  background: transparent linear-gradient(115deg, #11659269 0%, #E30F3857 100%) 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 10px 10px;
+  opacity: 1;
+  filter: blur(undefined);
+  padding: 7px;
+  margin: -10px 7px 0 6px;
+}
+.filter .content p{
+  text-align: left;
+font: normal normal normal 17px/22px Century Gothic;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+.filter .content h4{
+  text-align: right;
+font: normal normal bold 17px/22px STIXVariants;
+letter-spacing: 0px;
+color: #FFFDFD;
+opacity: 1;
+}
+.filter .over-beg{
+ position: absolute;
+ background: #E30E37 0% 0% no-repeat padding-box;
+ border-radius: 5px;
+ opacity: 1;
+ top:0;
+ padding: 6px 8px 0 18px;
+ margin: 84px 0px 0 0px;
+}
+.filter .over-beg h3{
+text-align: left;
+font: normal normal bold 11px/15px STIXVariants;
+letter-spacing: 0px;
+color: #FFFDFD;
+opacity: 1;
+}
+
+
+/*end style flashbaby*/
+
+/* start style fashion */
+#tab{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 6px #00000029;
+  border-radius: 6px;
+  opacity: 1;
+  padding-top: 30px;
+
+}
+.tab {
+  overflow: hidden;
+}
+
+/* Style the buttons inside the tab */
+.tab a{
+  text-decoration: none;
+  list-style: none;
+  letter-spacing: 0px;
+  color: #707070;
+  opacity: 1;
+  font-size: 23px;
+  margin: 30px 30px 70px 50px;
+}
+
+/* Change background color of buttons on hover */
+.tab a:hover {
+  color: #116592;
+  text-decoration: none;
+}
+
+/* Create an active/current tablink class */
+.tab a.active {
+  color: #116592;
+  border-bottom: 2px solid  #116592;
+  border-width: 4px;
+
+}
+
+/* Style the tab content */
+
+.tabcontent{
+  display: none;
+padding: 40px 45px;
+  border-top: none;
+}
+.tabcontent .desplay #color{
+  color: #EDC207;
+
+}
+.tabcontent .desplay #color1{
+  color: #D7D7D7;
+
+}
+.tabcontent .desplay h3{
+  letter-spacing: 0px;
+color: #343232;
+opacity: 1;
+font-size: 20px;
+margin-top: 10px;
+}
+.tabcontent .desplay p{
+  letter-spacing: 0px;
+color: #727272;
+opacity: 1;
+}
+
+.fashion{
+  margin-top:50px;
+}
+.fashion img{
+  width: 100%;
+}
+.fashion h2{
+  text-align: center;
+font: normal normal bold 39px/46px Raleway;
+letter-spacing: 0px;
+color: #116592;
+opacity: 1;
+}
+.container {
+
+}
+.fashion #content{
+  margin: -75px 7px 0 6px;
+}
+.fashion .content {
+  background: transparent linear-gradient(115deg, #11659269 0%, #E30F3857 100%) 0% 0% no-repeat padding-box;
+  border-radius: 0px 0px 10px 10px;
+  opacity: 1;
+  filter: blur(undefined);
+  padding: 7px;
+  margin: -55px 7px 0 6px;
+}
+.fashion .content p{
+  text-align: left;
+font: normal normal normal 17px/22px Century Gothic;
+letter-spacing: 0px;
+color: #FFFFFF;
+}
+.fashion .content h4{
+  text-align: right;
+font: normal normal bold 17px/22px STIXVariants;
+letter-spacing: 0px;
+color: #FFFDFD;
+opacity: 1;
+}
+.fashion .over-beg{
+  position: absolute;
+  background: #E30E37 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+  top:0;
+  padding: 6px 8px 0 18px;
+    margin: 84px 0px 0 0px;
+}
+.fashion .over-beg h3{
+  text-align: left;
+font: normal normal bold 11px/15px STIXVariants;
+letter-spacing: 0px;
+color: #FFFDFD;
+opacity: 1;
+}
+.blogr{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 6px #00000029;
+border-radius: 6px;
+opacity: 1;
+margin: 30px 0 30px 0;
+}
+.blogr h4{
+  font: normal normal normal 36px/46px Raleway;
+letter-spacing: -0.8px;
+color: #1C1C1C;
+opacity: 1;
+}
+.blogr input{
+  margin: 5px 10px 5px 10px;
+  padding: 5px;
+  font: normal normal normal 15px/22px Raleway;
+letter-spacing: -0.1px;
+color: #FFFFFF;
+background-color: #316592;
+border: none;
+}
+.blogr table td{
+  padding: 10px;
+  margin: 10px;
+}
+.blogr i{
+  color: #969696;
+  margin:20px 0 20px 0;
+}
+.blogr #color{
+color: #FF9017 ;
+opacity: 1;
+}
+.blogr #color1{
+color: #E30F38;
+opacity: 1;
+margin-left: 120px;
+}
+.blogr p{
+font: normal normal normal 17px/22px Raleway;
+letter-spacing: -0.23px;
+color: #545454;
+opacity: 1;
+}
+
+@media only screen and (max-width: 1000px) {
+  .baby-contact{
+    /* margin: 0; */
+    padding: 0 !Important;
+  }
+  .section__res{
+    flex-direction: column;
+  }
+  .header-text2 img{
+    position: relative;
+    margin: 0;
+  }
+}
+@media only screen and (max-width: 700px) {
+  .header-text{
+    /* margin: 0; */
+    padding: 0 !Important;
+  }
+  .section__res{
+    flex-direction: column;
+  }
+  .header__slider img{
+
+
+
+  }
+}
+
+
+
+                                    /*end style baby*/
+
+                                      /*start style pages*/
+
+.pages{
+  margin-top: 50px;
+}
+.page{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 6px #00000029;
+border-radius: 6px;
+opacity: 1;
+padding:30px;
+}
+.page img{
+  width: 7%;
+}
+.page hr{
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.page p,h6{
+  margin:-45px 0px 0 64px;
+  font: normal normal normal 15px/22px Raleway;
+letter-spacing: -0.2px;
+color: #545454;
+opacity: 1;
+}
+.page h6{
+  letter-spacing: -0.11px;
+color: #1C1C1C;
+opacity: 1;
+}
+.page .i{
+  text-align: right;
+  margin: -42px 30px 0 0;
+}
+.page .i i{
+  border: 1px solid #969696;
+    margin-right: 11px;
+    font-size: 10px;
+    color: #969696;
+    padding: 5px;
+}
+
+.page1{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 6px #00000029;
+border-radius: 6px;
+opacity: 1;
+padding: 10px;
+margin-bottom: 30px;
+}
+.page1 h4{
+ text-align: left;
+  font: normal normal normal 15px/22px Raleway;
+letter-spacing: -0.2px;
+color: #545454;
+opacity: 1;
+}
+.page1 input{
+text-align: left;
+border: none;
+border-radius: 2px;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 6px #00000029;
+border-radius: 6px;
+opacity: 1;
+padding: 10px;
+}
+.page1 #button{
+  font: normal normal normal 15px/22px Raleway;
+letter-spacing: -0.1px;
+color: #FFFFFF;
+opacity: 1;
+background-color: #116592;
+}
+.page1 table th,tr{
+  font: normal normal normal 17px/25px Raleway;
+  letter-spacing: -0.23px;
+  color: #545454;
+  opacity: 1;
+
+}
+.page1 #button1{
+  text-align: center;
+  font: normal normal normal 15px/22px Raleway;
+letter-spacing: -0.1px;
+color: #FFFFFF;
+opacity: 1;
+background-color: #116592;
+padding: 10px 43px 10px 43px;
+    margin: 21px 0 0 0;
+}
+
+
+                                      /*end style pages*/
+
+                                          /*start style elctronic*/
+
+.elctronic{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 6px #00000029;
+border-radius: 6px;
+opacity: 1;
+padding: 10px;
+margin-top: 30px;
+}
+.elctronic h4{
+font: normal normal normal 20px/26px Raleway;
+letter-spacing: -0.2px;
+color: #1C1C1C;
+opacity: 1;
+margin-top: 30px;
+}
+.elctronic i{
+  color: #969696;
+  margin:20px 0 20px 0;
+}
+.elctronic #color{
+color: #FF9017 ;
+opacity: 1;
+}
+.elctronic #color1{
+color: #E30F38;
+opacity: 1;
+margin-left: 120px;
+}
+.elctronic p{
+font: normal normal normal 17px/22px Raleway;
+letter-spacing: -0.23px;
+color: #545454;
+opacity: 1;
+}
+.elctronic .elctron span{
+ margin: 0 0 0 50px;
+}
+.elctronic .elctron p{
+  color: #E30F38;
+}
+.elctronic .elctron i{
+  color: #E30F38;
+}
+
+
+                                              /*end style elctronic*/
+
+
+                                                /*start style order*/
+.order{
+  text-align: center;
+  margin-top: 100px;
+}
+.order i{
+      color: red;
+      font-size: 72px;
+      border: 1px solid red;
+      border-radius: 31px;
+      padding: 16px;
+      background-color: #E30F380F;
+}
+.order h3{
+  font: normal normal bold 34px/40px Raleway;
+letter-spacing: 0px;
+color: #575656;
+opacity: 1;
+margin-top: 20px;
+}
+.order p{
+  font: normal normal normal 16px/29px Raleway;
+letter-spacing: 0px;
+color: #575656;
+}
+.order span{
+  font: normal normal normal 16px/29px Arial;
+letter-spacing: 0px;
+color: #E30F38;
+}
+.order button{
+  background: #116592 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+border: none;
+color: #FFFFFF;
+padding: 2px 10px 2px 10px;
+}
+
+
+                                              /*end style order*/
+
+
+                                              /*start style zara*/
+.zara{
+  text-align: center;
+  margin-top: 50px;
+}
+.zara img{
+      width: auto;
+      font-size: 72px;
+      border: 1px solid red;
+      border-radius: 50%;
+      padding: 16px;
+      background-color: black;
+}
+.zara h3{
+  font: normal normal bold 34px/40px Raleway;
+letter-spacing: 0px;
+color: #575656;
+opacity: 1;
+}
+.zara p{
+  font: normal normal normal 16px/29px Raleway;
+  letter-spacing: 0px;
+  color: #575656;
+  opacity: 1;
+}
+.zara span{
+  font: normal normal normal 17px/22px Raleway;
+letter-spacing: -0.41px;
+color: #E30F38;
+opacity: 1;
+}
+.zara input{
+  border: 1px solid red;
+  width: 4%;
+  padding: 10px;
+  margin-right: 5px;
+}
+.zara button{
+  background: #116592 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+border: none;
+color: #FFFFFF;
+padding: 2px 10px 2px 10px;
+}
+
+
+
+                                              /*end style zara*/
+
+
+                                              /*start style profile*/
+.box{
+  background: #FFFFFF 0% 0% no-repeat padding-box;
+  box-shadow: 0px 0px 7px #00000029;
+  border-radius: 6px;
+  opacity: 1;
+  margin: -63px 0 0 0;
+    padding: 8px 12px 8px 12px;
+}
+.box h4{
+  letter-spacing: -0.4px;
+color: #1C1C1C;
+opacity: 1;
+}
+.box button{
+  margin: 0 8px 0 10px;
+  font: normal normal normal 13px/18px Raleway;
+letter-spacing: 0px;
+color: #1C1C1C;
+opacity: 1;
+border: none;
+}
+.box i{
+  background: #dee2e6 0% 0% no-repeat padding-box;
+}
+.box p{
+  margin-left: 50px;
+}
+.box .button{
+  font: Raleway;
+letter-spacing: -0.1px;
+color: #FFFFFF;
+opacity: 1;
+padding: 5px 15px 5px 15px;
+background-color: #2d6592;
+border: none;
+
+}
+.box label{
+  font: normal normal normal 15px/22px Raleway;
+  letter-spacing: -0.2px;
+  color: #545454;
+  opacity: 1;
+}
+.box2{
+    margin: 114px 0 0 46px;
+}
+.box2 h4{
+  font: normal normal bold 18px/22px Century Gothic;
+letter-spacing: 0px;
+color: #FFFFFF;
+opacity: 1;
+}
+.box2 p{
+  font: normal normal normal 17px/22px Century Gothic;
+letter-spacing: 0px;
+color: #FFFFFF;
+padding: 10px;
+}
+.box2 p span{
+  color: #6FBDE6;
+}
+.box2 button{
+  background: #9FD6F4 0% 0% no-repeat padding-box;
+  border-radius: 10px;
+  opacity: 0.46;
+  padding: 5px 15px 5px 15px;
+  color: white;
+}
+.box2 input{
+  border: 1px solid #FFFFFF;
+border-radius: 10px;
+opacity: 0.26;
+background-color: #e9ecef;
+
+}
+                                          /*end style profile*/
+
+
+                                            /*start style massage*/
+
+                                            /* Style the tab */
+  .massage .tab input{
+  background: #ECEEF0 0% 0% no-repeat padding-box;
+border-radius: 23px;
+opacity: 1;
+padding: 5px 5px 4px 13px;
+  margin: 18px 0 9px 34px;
+    border: none;
+      }
+.massage{
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 0px 6px #0000001A;
+border: 1px solid #F5F7F9;
+border-radius: 6px 0px 0px 0px;
+opacity: 1;
+margin: 20px 0 20px 0;
+padding: none;
+}
+.massage .tab img{
+  width: 15%;
+  border: 1px solid;
+  border-radius: 100%;
+  margin-right: 30px;
+  font: normal normal medium 18px/21px Raleway;
+letter-spacing: 0px;
+color: #2B4058;
+opacity: 1;
+border: none;
+padding: 0;
+}
+
+.massage .tab p{
+  font: normal normal normal 16px/19px Raleway;
+letter-spacing: 0px;
+color: #959FAB;
+opacity: 1;
+margin: 0 0 0 51px;
+padding: 0;
+}
+                                            .massage .tab {
+                                              float: left;
+                                              background: #FFFFFF 0% 0% no-repeat padding-box;
+                                              box-shadow: 0px 0px 6px #0000001A;
+                                              border: 1px solid #F5F7F9;
+                                              border-radius: 6px 0px 0px 0px;
+                                              opacity: 1;
+
+
+
+
+                                            }
+
+                                            /* Style the buttons inside the tab */
+                                            .massage .tab button {
+                                              display: block;
+                                              background-color: inherit;
+                                              color: #2B4058;
+                                              padding: 22px 16px;
+                                              width: 100%;
+                                              border: none;
+                                              outline: none;
+                                              text-align: left;
+                                              transition: 0.3s;
+                                              font-size: 15px;
+                                                border: none;
+                                            }
+
+                                            /* Change background color of buttons on hover */
+                                            .massage .tab button:hover {
+                                              background: #E30F38 0% 0% no-repeat padding-box;
+                                              opacity: 1;
+                                              border: none;
+                                              color: white;
+                                            }
+
+                                            /* Create an active/current "tab button" class */
+                                        .massage .tab button.active {
+                                              background: #E30F38 0% 0% no-repeat padding-box;
+                                              opacity: 1;
+                                              color: white;
+                                            }
+
+                                            /* Style the tab content */
+                                            .massage .tabcontent {
+                                              float: left;
+                                              padding: 0px 12px;
+
+                                              border-left: none;
+
+                                            }
+                                            .massge1 .photo2{
+                                              float: left;
+
+                                            }
+                                            .massge1 .photo1 p{
+                                              font: normal normal normal 14px/23px Raleway;
+letter-spacing: 0px;
+color: #2B4058;
+opacity: 1;
+border: 1px solid #dee2e6;
+background: #FFFFFF 0% 0% no-repeat padding-box;
+border-radius: 15px 15px 15px 0px;
+opacity: 1;
+margin: 6px 0 0 209px;
+    padding: 10px;
+                                            }
+.massge1 .photo1 img{
+  width: 52px;
+  border: 1px solid White ;
+  border-radius: 50%;
+}
+.massge1 .photo1 span{
+      margin-left: 42px;
+}
+.massge1 .photo1 button{
+  background: #E30F38 0% 0% no-repeat padding-box;
+border-radius: 6px;
+opacity: 1;
+color: #FFFFFF;
+border: none;
+padding: 5px;
+}
+.massge1 .photo1 em{
+  margin: 6px 0 0 209px;
+  font: normal normal normal 11px/13px Roboto;
+letter-spacing: 0px;
+color: #959FAB;
+opacity: 1;
+}
+.massge1 .photo2{
+  float: right;
+}
+.massge1 .photo2 img{
+  float: right;
+  border: 1px solid white ;
+  border-radius: 50%;
+  width: 32px;
+}
+.massge1 .photo2 p{
+background: #E30F38 0% 0% no-repeat padding-box;
+border-radius: 15px 15px 0px 15px;
+opacity: 1;
+color: #FFFFFF;
+font: normal normal normal 16px/26px Raleway;
+padding: 10px;
+}
+
+                                              /*end style massage*/
